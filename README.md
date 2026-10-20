@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Golden-Pigeon, a senior student in XDU.
-- 👀 I’m interested in Computer Vision, Java/Go Backend, Qt ...
-- 🌱 I’m currently learning Computer Vision
+- 👋 Hi, I’m @Golden-Pigeon, a PhD student in XDU.
+- 👀 I’m interested in computer vision, dsh plugin building, vibe-coding small tools ...
+- 🌱 I’m currently studying on depth completion.
 - 📫 Contact me at goldenpigeon2000@gmail.com
 
 <!---
